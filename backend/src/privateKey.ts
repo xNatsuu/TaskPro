@@ -1,0 +1,1 @@
+export const privateKey = "0xc27195e199eff60d47d1c61761dbcc3799488b9b7f5be946e31b719b7cba006a";
